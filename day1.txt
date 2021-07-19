@@ -1,1 +1,9 @@
 B23 is learning git
+
+We just made our first commit.
+YAAAAYYYY!!!!!!
+
+Git keep track of changes from the last point youy saved 
+by using the commmit method. Save in repository
+histroy
+
