@@ -1,1 +1,7 @@
 Is this working?
+Coffee $2.99
+Donuts $3.99  750 cal
+
+Mocha $3.50 200 cal
+
+Ice coffee 3.99 400 cal
